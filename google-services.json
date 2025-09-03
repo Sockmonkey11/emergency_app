@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257524616950",
+    "project_id": "asdadf-2e2c2",
+    "storage_bucket": "asdadf-2e2c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257524616950:android:7d3ede0377d88d1676a6d7",
+        "android_client_info": {
+          "package_name": "hospital_finder1.v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMtqisahSzr7EBlDsrF0QrM8Shv2IgAAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

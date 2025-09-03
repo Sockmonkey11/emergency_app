@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HospitalFinder</string>
+    <string name="private_version">5be0b13dffe4f96a4c92c0257d5d5c930bf60ea3</string>
+    <string name="presplash_color">#000000</string>
+    <string name="urlScheme">kivy</string>
+</resources>

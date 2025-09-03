@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/webview/build/build.iml" filepath="$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/webview/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/webview/build/src/build2.iml" filepath="$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/webview/build/src/build2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cloudGamingManager.iml" filepath="$PROJECT_DIR$/.idea/cloudGamingManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/common/common.iml" filepath="$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/qt/qt.iml" filepath="$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/qt/qt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/sdl2/sdl2.iml" filepath="$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/sdl2/sdl2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/service_library/service_library.iml" filepath="$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/service_library/service_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/service_only/service_only.iml" filepath="$PROJECT_DIR$/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/service_only/service_only.iml" />
+    </modules>
+  </component>
+</project>
